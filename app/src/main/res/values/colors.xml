@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#834C9B</color>
+    <color name="colorPrimaryDark">#834c9b</color>
+    <color name="colorAccent">#f6eef6</color>
+    <color name="podarBackground">#834c9b</color>
+</resources>

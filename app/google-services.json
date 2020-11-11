@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147676328533",
+    "firebase_url": "https://portal-podar.firebaseio.com",
+    "project_id": "portal-podar",
+    "storage_bucket": "portal-podar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147676328533:android:3a1fc626abcccf08",
+        "android_client_info": {
+          "package_name": "com.example.firstapp.podarportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147676328533-itndu07trsicaid081tcraar12lg45vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp.podarportal",
+            "certificate_hash": "960e966cb31aa61ce2a5ee25c269d871e8d5cace"
+          }
+        },
+        {
+          "client_id": "147676328533-oj4vnr93hg1t9ic1prnrdd6jp55r4smh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5JzFVBNJWKQohRaYBAQc9gExeDZb0AKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147676328533-oj4vnr93hg1t9ic1prnrdd6jp55r4smh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
